@@ -1,26 +1,253 @@
-<h2 align="left">Hi 👋! My name is Sujay Korde and I'm a Passionate Developer from India</h2>
+<div align="center">
 
-## 💫 About Me:
-I'm currently working on Prism.<br>I'm learning Machine Learning and GNNs.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F5AF0&height=250&section=header&text=Sujay%20Korde&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Software%20Engineering&descAlignY=60" width="100%"/>
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-korde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaykorde04@gmail.com) 
+<img src="https://komarev.com/ghpvc/?username=Sujay-korde&style=for-the-badge&color=blueviolet"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujay-korde&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sujay-korde&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay-korde&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/AIML-VIT%20Pune-00C9FF?style=for-the-badge"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujay-korde&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://img.shields.io/badge/Open%20Source-Active-2ECC71?style=for-the-badge"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sujay-korde&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Computer%20Vision-7F5AF0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Real%20World%20Projects-FF6B6B?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Computer+Vision+Engineer;Building+Technology+for+Real+Problems;Open+Source+Contributor;Always+Learning+Always+Building"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sujay-korde&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm an AIML student at **VIT Pune** passionate about building software that solves real-world problems.
+
+My primary interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- ⚙️ Embedded Systems
+- 🧠 Deep Learning
+- 💻 Software Engineering
+- 🌍 Open Source
+
+Currently focused on developing assistive technologies using AI and computer vision.
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Building:
+  - ASEP Smart Navigation System
+  - GitPy (Build Your Own Git)
+  - Computer Vision Projects
+
+Learning:
+  - Deep Learning
+  - Advanced Python
+  - Backend Engineering
+  - System Design
+
+Goals:
+  - Open Source Contributions
+  - Software Engineering Internship
+  - Publish High-Impact Projects
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🥇 ASEP
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujay-korde&repo=GitPy&theme=tokyonight)](https://github.com/Sujay-korde/ghostai)
+AI-powered navigation system for visually impaired individuals.
+
+**Features**
+
+- Walkable Path Detection
+- Obstacle Avoidance
+- Real-Time Guidance
+- Haptic Feedback
+
+`YOLOv8`
+`OpenCV`
+`Python`
+`ESP32`
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🥈 GitPy
+
+Build Your Own Git in Python.
+
+**Features**
+
+- init
+- add
+- commit
+- checkout
+- log
+
+`Python`
+`CLI`
+`Version Control`
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 👁️ Walkable Space Detection
+
+Computer vision project for safe path detection.
+
+`Computer Vision`
+`YOLO`
+`Segmentation`
+
+</td>
+
+<td width="50%">
+
+### 📊 Olympics Analytics
+
+Power BI dashboard for Olympic datasets.
+
+`Power BI`
+`Data Analytics`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📚 Engineering Journey
+
+| Domain | Progress |
+|---------|----------|
+| Artificial Intelligence | ██████████░░ 90% |
+| Machine Learning | █████████░░░ 85% |
+| Computer Vision | █████████░░░ 85% |
+| Software Engineering | ████████░░░░ 75% |
+| Backend Development | ███████░░░░░ 65% |
+| Embedded Systems | ████████░░░░ 70% |
+| Open Source | ███████░░░░░ 65% |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujay-korde&theme=github_dark" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujay-korde&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujay-korde&theme=github_dark" width="49%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sujay-korde&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujay-korde&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake.svg">
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
+</picture>
+
+---
+
+# 🏆 Highlights
+
+- 🎓 AIML Student at VIT Pune
+- 🤖 Building AI Assistive Technology
+- 👁️ Computer Vision Enthusiast
+- 🌱 Active Open Source Learner
+- 🚀 Consistently Shipping Projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sujay-korde/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sujay-korde">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="mailto:sujaykorde04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building AI Systems • Open Source Software • Real-World Solutions
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F5AF0&height=120&section=footer"/>
+
+</div>
