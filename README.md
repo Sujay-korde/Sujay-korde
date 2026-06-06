@@ -200,15 +200,18 @@ Power BI dashboard for Olympic datasets.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake.svg">
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
-</picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
 
----
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake.svg">
+
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Sujay-korde/Sujay-korde/output/github-snake-dark.svg">
+</picture>
 
 # 🏆 Highlights
 
@@ -232,7 +235,7 @@ Power BI dashboard for Olympic datasets.
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="sujaykorde.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
