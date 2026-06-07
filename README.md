@@ -43,13 +43,11 @@ Currently focused on developing assistive technologies using AI and computer vis
 
 ```yaml
 Building:
-  - ASEP Smart Navigation System
-  - GitPy (Build Your Own Git)
-  - Computer Vision Projects
+  - nova-shell 
 
 Learning:
   - Deep Learning
-  - Advanced Python
+  - DevOps
   - Backend Engineering
   - System Design
 
@@ -68,8 +66,7 @@ Goals:
 
 <td width="50%">
 
-### 🥇 ASEP
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sujay-korde&repo=GitPy&theme=tokyonight)](https://github.com/Sujay-korde/ghostai)
+### 🥇 WalkNav
 AI-powered navigation system for visually impaired individuals.
 
 **Features**
@@ -86,7 +83,7 @@ AI-powered navigation system for visually impaired individuals.
 
 <br>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Sujay-korde/WalkNav-YOLOSeg">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -94,7 +91,7 @@ AI-powered navigation system for visually impaired individuals.
 
 <td width="50%">
 
-### 🥈 GitPy
+### 🥈 NocaVCS
 
 Build Your Own Git in Python.
 
@@ -112,7 +109,7 @@ Build Your Own Git in Python.
 
 <br>
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Sujay-korde/NovaVCS-A-Git-Compatible-Version-Control-System-Built-from-Scratch">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
